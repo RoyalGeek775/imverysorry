@@ -23,7 +23,7 @@ const DEFAULT_LETTER_PARAGRAPHS = [
   "And you deserve someonee who learns from their mistakes.",
   "I'm trying to be that personn.",
   "Whether you forgive me todayy, tomorrow, or much laterr.",
-  "I just wanted you to know thatt."
+  "Pleasee dont hide anything from me, pleasee i begg you"
 ];
 
 const DEFAULT_MEMORIES: Memory[] = [
